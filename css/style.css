@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.carousel-image {
+  filter: brightness(0.5);
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.negative-m-5 {
+  margin-top: -3rem;
+}
+
+.social-icon {
+  height: 32px;
+  width: 32px;
+}
